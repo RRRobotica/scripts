@@ -80,6 +80,7 @@ GrabImg,GrabImg
 DatiPresa,GripData
 Home,Home
 IdMaxMinDB,IdMaxMinDB
+Se,If
 ImportaVar,ImportVar
 Impulso,Impulse
 StatoImpulso,ImpulseState
